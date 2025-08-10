@@ -8,3 +8,10 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.sect1 {
+    background-color: lightblue;
+    border-radius: 5px;
+    height: 300px;
+    width: 400px;
+}
